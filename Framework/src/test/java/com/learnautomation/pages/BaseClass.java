@@ -69,7 +69,5 @@ public class BaseClass {
 	report.flush();
 	Reporter.log("Test Completed>>> Reports Generated ",true);
 	
-	
-	
 	}
 }
