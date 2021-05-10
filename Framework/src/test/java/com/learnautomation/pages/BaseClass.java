@@ -27,7 +27,7 @@ public class BaseClass {
 	public ConfigDataProvider config;
 	public ExtentReports report;
 	public ExtentTest logger;
-	
+	//this is a new commit from sujey
 	
 	@BeforeSuite
 	public void setUpSuite() {
@@ -68,5 +68,8 @@ public class BaseClass {
 	}
 	report.flush();
 	Reporter.log("Test Completed>>> Reports Generated ",true);
+	
+	
+	
 	}
 }
