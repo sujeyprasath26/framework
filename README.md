@@ -1,2 +1,2 @@
-# Maven framework
+# framework
 framework
